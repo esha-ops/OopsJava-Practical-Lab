@@ -12,13 +12,14 @@
 This repository contains Java programs developed for the 3rd semester Object Oriented Programming Laboratory, based on the laboratory question bank.
 
 ## Programs
-| 1 | Employee Database Using an Array of Objects 
-| 2 | MyPoint – 2D Coordinates and Distance Calculation 
-| 3 | University Enrollment System Using Static Features 
-| 4 | Car Inheritance and Sale Price Calculation 
-| 5 | Dynamic Method Dispatch Using an Online Payment System 
-| 6 | User-Defined Packages in a Banking System 
-| 7 | Geometric Calculations Using Interfaces 
+
+1. Employee Database Using an Array of Objects
+2. MyPoint – 2D Coordinates and Distance Calculation
+3. University Enrollment System Using Static Features
+4. Car Inheritance and Sale Price Calculation
+5. Dynamic Method Dispatch Using an Online Payment System
+6. User-Defined Packages in a Banking System
+7. Geometric Calculations Using Interfaces
 
 ## Concepts Covered
 
